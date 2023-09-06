@@ -1,5 +1,6 @@
 ### Welcome To Tethereum Global Network 👋
-
+Tethereum Audit Report1 - https://github.com/Coinsult/solidity/blob/194e2f7ad8b6c7522ad3a7c94ba796bd041549dd/Coinsult_Tethereum_0xe9...3d91_Audit.pdf
+Tethereum Audit Report2 - https://github.com/Assure-DeFi/Audits/blob/main/Tethereum_ERC%2020%20Token_09_02_2023.pdf
 <!--
 **tethereumtoken/TethereumToken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
