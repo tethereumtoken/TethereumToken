@@ -1,4 +1,5 @@
 Tethereum Token – GitHub Repository
+
 📌 Official GitHub Repository for Tethereum ($T99)
 The Tethereum ($T99) GitHub Repository contains the smart contract, technical documentation, and development resources for integrating and contributing to the Tethereum ecosystem on Binance Smart Chain (BSC).
 
@@ -17,6 +18,7 @@ The Tethereum ($T99) GitHub Repository contains the smart contract, technical do
 5️⃣ Community Contributions – Open-source contributions, pull requests, and issue tracking for continuous improvements.
 
 🔹 Key Features of Tethereum ($T99) on GitHub:
+
 ✅ BEP20 Standard Compliance – Ensuring compatibility with the Binance Smart Chain ecosystem.
 ✅ Transparent & Open-Source – Code available for audit, review, and contributions.
 ✅ Secure & Efficient – Built with best security practices to prevent vulnerabilities.
@@ -24,6 +26,7 @@ The Tethereum ($T99) GitHub Repository contains the smart contract, technical do
 ✅ Community-Driven – Encouraging developers worldwide to participate in innovation.
 
 🚀 Contribute to Tethereum!
+
 💡 Developers & blockchain enthusiasts are welcome to contribute by:
 
 🔹 Reviewing the code and suggesting improvements.
@@ -32,6 +35,7 @@ The Tethereum ($T99) GitHub Repository contains the smart contract, technical do
 🔹 Creating new use cases for Tethereum in DeFi and cross-border payments.
 
 🔗 Get Started Now!
+
 📌 GitHub Repository: github.com/TethereumToken
 📌 Official Website: www.tethereum.org
 📌 Smart Contract Address: 0xc98cf0876b23fb1f574be5c59e4217c80b34d327
