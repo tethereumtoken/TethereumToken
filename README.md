@@ -20,9 +20,13 @@ The Tethereum ($T99) GitHub Repository contains the smart contract, technical do
 🔹 Key Features of Tethereum ($T99) on GitHub:
 
 ✅ BEP20 Standard Compliance – Ensuring compatibility with the Binance Smart Chain ecosystem.
+
 ✅ Transparent & Open-Source – Code available for audit, review, and contributions.
+
 ✅ Secure & Efficient – Built with best security practices to prevent vulnerabilities.
+
 ✅ Developer-Friendly – Easy-to-follow documentation for seamless integration.
+
 ✅ Community-Driven – Encouraging developers worldwide to participate in innovation.
 
 🚀 Contribute to Tethereum!
