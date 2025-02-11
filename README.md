@@ -34,8 +34,11 @@ The Tethereum ($T99) GitHub Repository contains the smart contract, technical do
 💡 Developers & blockchain enthusiasts are welcome to contribute by:
 
 🔹 Reviewing the code and suggesting improvements.
+
 🔹 Building dApps that integrate with $T99 smart contracts.
+
 🔹 Reporting issues and enhancing security protocols.
+
 🔹 Creating new use cases for Tethereum in DeFi and cross-border payments.
 
 🔗 Get Started Now!
