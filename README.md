@@ -5,6 +5,7 @@ The Tethereum ($T99) GitHub Repository contains the smart contract, technical do
 🔗 GitHub Repository: github.com/TethereumToken
 
 📂 Repository Structure:
+
 1️⃣ Smart Contract Code – The official BEP20 contract for Tethereum ($T99), including security features and compliance with BSC standards.
 
 2️⃣ Deployment Guide – Step-by-step instructions on how to deploy, verify, and interact with $T99 smart contracts.
