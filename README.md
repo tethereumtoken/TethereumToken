@@ -47,6 +47,6 @@ The Tethereum ($T99) GitHub Repository contains the smart contract, technical do
 
 📌 Official Website: www.tethereum.org
 
-📌 Smart Contract Address: 0xc98cf0876b23fb1f574be5c59e4217c80b34d327
+📌 Smart Contract Address: 0xF5F53af4595BaB806E2522Ca7A8bbcB70a9b3DA8
 
 Join the Tethereum Developer Community and help shape the future of decentralized finance! 🚀🔥 #T99 #DeFi #BSC
